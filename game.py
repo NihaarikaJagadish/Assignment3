@@ -1,4 +1,4 @@
-from minimaxAlphaBeta import *
+from gameWithMiniMaxAndAlphaBeta import *
 import datetime
 RED     = '\033[1;31;40m'
 YELLOW  = '\033[1;33;40m'
